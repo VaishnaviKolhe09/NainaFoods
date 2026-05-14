@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowUpRight, Zap, ShieldCheck, Globe } from 'lucide-react';
-import MissionVision from '../components/visionmission';
+import MissionVision from '../components/VisionMission';
 import CTAsection from '../components/CTAsection';
 
 const About = () => {
