@@ -116,7 +116,7 @@ const Products = () => {
                         loading="lazy"
                         alt={product.name}
                         className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500"
-                        loading="lazy"
+                        
                       />
                     </div>
                     <div>
